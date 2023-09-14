@@ -40,3 +40,17 @@ div.hello {
     margin: 2px;
 
 }
+
+.container {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.centru {
+    position: relative;
+    top: -16px;
+    right: -16px;
+}
+
